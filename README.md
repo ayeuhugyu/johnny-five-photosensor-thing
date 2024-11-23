@@ -2,4 +2,4 @@ lil photosensor and servo thing, if it detects a significant light level change 
 theres also indicator lights
 
 was bored\
-so i did something\
+so i did something
